@@ -1,0 +1,13 @@
+{
+  "name": "mon-projet",
+  "version": "1.0.0",
+  "description": "Mon super projet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.0.6"
+  }
+}
